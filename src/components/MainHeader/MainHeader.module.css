@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@300;500;600;700&display=swap');
 .main-header {
   position: fixed;
   top: 0;
@@ -9,8 +10,10 @@
   align-items: center;
   background: #741188;
   padding: 0 2rem;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
 .main-header h1 {
   color: white;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
