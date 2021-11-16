@@ -7,12 +7,13 @@
   cursor: pointer;
   font-size: 1.15rem;
   border-radius: 30px;
+  
 }
 
 .button:hover,
 .button:active {
-  background: #741188;
-  border-color: #741188;
+  background: #757bc8;
+  border-color: #757bc8;
 }
 
 .button:focus {
